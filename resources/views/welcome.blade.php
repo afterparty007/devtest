@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 nezzuk</div>
+                <div class="title">Nah 2. commit - deploy test</div>
             </div>
         </div>
     </body>
